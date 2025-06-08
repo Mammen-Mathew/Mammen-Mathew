@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-15.gif" align="center" height="300" width="" />
-</div>  
+
   
 
 # <div align="center">Hi there, I'm Mammen Mathew 👋</div>  
